@@ -12,7 +12,7 @@
 
 2023-12-05
 
-更新了实验指导书（https://github.com/Yang-guoyong/groundwater-dynamics/blob/main/notebooks/《地下水动力学》实验指导书(2023-12-05).pdf）
+更新了实验指导书（https://github.com/Yang-guoyong/groundwater-dynamics/blob/main/notebooks/）
 
 - 增加了 Hantush-Jacob 配线法
 - 增加了 Hantush-Jacob 拐点法
