@@ -1,0 +1,18 @@
+---
+title: "课程首页"
+---
+
+# 欢迎来到本课程
+
+- [讲义](lectures/)
+- [实验](labs/)
+- [作业](assignments/)
+- [📄 第0章 幻灯片 PDF](slides/slide-0-2026.pdf)
+- [📄 第1章 幻灯片 PDF](slides/slide-1-2026.pdf)
+- [📄 第2章 幻灯片 PDF](slides/slide-2-2026.pdf)
+- [📄 第3章 幻灯片 PDF](slides/slide-3-2026.pdf)
+- [📄 第4章 幻灯片 PDF](slides/slide-4-2026.pdf)
+- [📄 第5章 幻灯片 PDF](slides/slide-5-2026.pdf)
+- [📄 第6章 幻灯片 PDF](slides/slide-6-2026.pdf)
+- [📄 第7章 幻灯片 PDF](slides/slide-7-2026.pdf)
+
