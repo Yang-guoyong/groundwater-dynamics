@@ -1,0 +1,21 @@
+---
+title: "作业 1"
+
+format:
+  html:
+    mathjax: "https://cdn.bootcdn.cn/ajax/libs/mathjax/4.0.0/tex-mml-chtml.js"
+    fig-dpi: 150
+
+code-fold: true
+code-overflow: wrap
+code-line-numbers: true
+
+fig-format: jpeg
+fig-responsive: true
+fig-align: center
+
+jupyter: python3
+embed-resources: true
+---
+
+1. 写出渗流模型假设的定义。如何深入理解渗流模型假设各部分的含义？

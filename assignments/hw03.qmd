@@ -1,0 +1,31 @@
+---
+title: "作业 3"
+format:
+  html:
+    mathjax: "https://cdn.bootcdn.cn/ajax/libs/mathjax/4.0.0/tex-mml-chtml.js"
+    fig-dpi: 150
+
+code-fold: true
+code-overflow: wrap
+code-line-numbers: true
+fig-format: jpeg
+fig-responsive: true
+fig-align: center
+jupyter: python3
+embed-resources: true
+---
+
+1 . 分析弹性释水与重力排水现象的差异，并给出相应的水文地质参数定义。 
+
+2 . 均质各向同性潜水含水层均厚 20 m，渗透系数 10 m/d，等水头线及河流流向如图所示。
+（1）试绘制潜水含水层流网；
+（2）分析地下水与河流的补排关系；
+（3）用图中数据计算河流单侧 100 m 河道与地下水交换的流量。
+
+![](fig_files/hw3-1.png){width="250" fig-align="center"}
+
+3 . 图中所示的含水层系统，并且每个分区都是均匀、各向同性的。如果在 A 处有污染物释放，问各房屋的水井会受到影响吗？做出流场图并作分析。
+
+![](fig_files/hw3-2.png){width="450" fig-align="center"}
+
+4 . 按实验指导书介绍配置个人电脑的 Python 环境。
